@@ -1,2 +1,4 @@
 # Licenta2018MihalachiBogdan-Marian
-Lucrare de licenta
+Bachelor's Degree project
+
+PDF documentation: 
